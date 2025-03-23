@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kwepto-currency-app/static/css/main.3c2fded6.css",
+    "main.js": "/kwepto-currency-app/static/js/main.8f7a5017.js",
+    "static/media/dollarsign.png": "/kwepto-currency-app/static/media/dollarsign.91b096014f769c75681f.png",
+    "static/media/Trending.svg": "/kwepto-currency-app/static/media/Trending.7eeaffc54ced009f95d6d0a2615236cd.svg",
+    "static/media/FooterImg.svg": "/kwepto-currency-app/static/media/FooterImg.02bce745add6e7400a0be39a491c7ff7.svg",
+    "static/media/BannerImg.svg": "/kwepto-currency-app/static/media/BannerImg.6fd147a9685160a1f64c02fa417ff080.svg",
+    "static/media/Error404Img.svg": "/kwepto-currency-app/static/media/Error404Img.944e5ebe5f3c0e54f8c98715aceebf59.svg",
+    "static/media/NewsLogo.svg": "/kwepto-currency-app/static/media/NewsLogo.57f06b4068b89bea7378f3c8d18438d4.svg",
+    "static/media/Discover.svg": "/kwepto-currency-app/static/media/Discover.1de37dad769c33457106b17345697087.svg",
+    "static/media/LogoImg.svg": "/kwepto-currency-app/static/media/LogoImg.55a3ed34fb5cf9651e28cb6232a727a3.svg",
+    "static/media/DogCoinIcon.svg": "/kwepto-currency-app/static/media/DogCoinIcon.7c3059c24fca32efd686b1f5393895b6.svg",
+    "static/media/CurrencyImg.svg": "/kwepto-currency-app/static/media/CurrencyImg.b23dc963faa03205e1a4f675a04473fa.svg",
+    "static/media/ExchangeBanner.svg": "/kwepto-currency-app/static/media/ExchangeBanner.fa0d7baff7f9b659f6fc05a352662b2d.svg",
+    "static/media/CryptoIcon.svg": "/kwepto-currency-app/static/media/CryptoIcon.91132454f8a5416204151c157ce993bc.svg",
+    "static/media/DogChartIcon.svg": "/kwepto-currency-app/static/media/DogChartIcon.d50c66cf77065649c0eb1d7c36b27033.svg",
+    "static/media/BTC.svg": "/kwepto-currency-app/static/media/BTC.eca8d6094ae521c0910de2d6b7e2dbf3.svg",
+    "static/media/XRP.svg": "/kwepto-currency-app/static/media/XRP.549964be3fff8de89aafb9a2f967976c.svg",
+    "static/media/ETH.svg": "/kwepto-currency-app/static/media/ETH.9e5dd96d639ad8e2eec39d0b64026e7c.svg",
+    "index.html": "/kwepto-currency-app/index.html",
+    "main.3c2fded6.css.map": "/kwepto-currency-app/static/css/main.3c2fded6.css.map",
+    "main.8f7a5017.js.map": "/kwepto-currency-app/static/js/main.8f7a5017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2fded6.css",
+    "static/js/main.8f7a5017.js"
+  ]
+}
